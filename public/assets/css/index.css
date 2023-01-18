@@ -1,0 +1,9 @@
+#cardProgja
+{
+    background-color: #f5eadf;
+}
+@media only screen and (max-width: 360px) {
+    background-image{
+        width: 100%;
+    }
+  }
